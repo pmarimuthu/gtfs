@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         // Use Jenkins Credentials (Secret Text) for your GitHub token
-        GITHUB_TOKEN = credentials('github-pmarimuthu-token')
+        GITHUB_TOKEN = credentials('88599100-98f0-40bb-9f85-1fcf66346666')
     }
 
     stages {
